@@ -1,4 +1,4 @@
-I coded this project after taking a class on Algorithms in my sophomore year of college. I wanted to practise using algorithms to solve problems. In this case, I used the breadth-first search algorithm to find the shortest path from source to destination.
+I used the breadth-first search algorithm to find the shortest path from source to destination.
 
 This program has 2 classes: Map and Control. Map is used to create flight maps that show all flights between cities. Control is a control class used to take care of this program's operations. Detailed documentation can be found in the source code.
 
